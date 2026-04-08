@@ -1,0 +1,19 @@
+{
+  "appTitle": "Mandi Price Tracker",
+  "settings": "Settings",
+  "theme": "Theme",
+  "language": "Language",
+  "english": "English",
+  "hindi": "Hindi",
+  "tamil": "Tamil",
+  "signOut": "Sign Out",
+  "accountInformation": "Account Information",
+  "farmerAccount": "Verified Farmer",
+  "operatorAccount": "Mandi Operator",
+  "phoneNumber": "Phone Number",
+  "villageLocation": "Village Location",
+  "primaryCrop": "Primary Crop",
+  "mandiName": "Mandi Name",
+  "aiPredictions": "AI Predictions",
+  "recentBroadcasts": "Recent Broadcasts"
+}

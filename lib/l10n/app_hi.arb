@@ -1,0 +1,19 @@
+{
+  "appTitle": "मंडी प्राइस ट्रैकर",
+  "settings": "सेटिंग्स",
+  "theme": "थीम",
+  "language": "भाषा",
+  "english": "अंग्रेज़ी",
+  "hindi": "हिंदी",
+  "tamil": "तमिल",
+  "signOut": "साइन आउट",
+  "accountInformation": "खाता जानकारी",
+  "farmerAccount": "सत्यापित किसान",
+  "operatorAccount": "मंडी ऑपरेटर",
+  "phoneNumber": "फ़ोन नंबर",
+  "villageLocation": "गाँव का स्थान",
+  "primaryCrop": "मुख्य फसल",
+  "mandiName": "मंडी का नाम",
+  "aiPredictions": "एआई भविष्यवाणियां",
+  "recentBroadcasts": "हालिया प्रसारण"
+}

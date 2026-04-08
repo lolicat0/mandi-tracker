@@ -1,0 +1,20 @@
+﻿
+   info - Parameter 'key' could be a super parameter - lib\main.dart:20:9 - use_super_parameters
+  error - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - lib\main.dart:42:22 - argument_type_not_assignable
+   info - Parameter 'key' could be a super parameter - lib\main.dart:56:9 - use_super_parameters
+warning - Unused import: 'package:cloud_firestore/cloud_firestore.dart' - lib\models\user_model.dart:1:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\screens\auth\login_screen.dart:7:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\auth\signup_screen.dart:6:9 - use_super_parameters
+   info - Statements in an if should be enclosed in a block - lib\screens\auth\signup_screen.dart:46:9 - curly_braces_in_flow_control_structures
+   info - Parameter 'key' could be a super parameter - lib\screens\farmer_dashboard\farmer_dashboard_tab.dart:9:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\farmer_dashboard\farmer_dashboard_tab.dart:184:47 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\screens\farmer_dashboard\farmer_main_screen.dart:9:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\farmer_dashboard\farmer_main_screen.dart:64:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\screens\operator_dashboard\operator_dashboard_tab.dart:10:9 - use_super_parameters
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\operator_dashboard\operator_dashboard_tab.dart:154:27 - deprecated_member_use
+   info - Statements in an if should be enclosed in a block - lib\screens\operator_dashboard\operator_dashboard_tab.dart:187:31 - curly_braces_in_flow_control_structures
+warning - Unused import: 'package:provider/provider.dart' - lib\screens\operator_dashboard\operator_main_screen.dart:2:8 - unused_import
+warning - Unused import: '../../services/auth_service.dart' - lib\screens\operator_dashboard\operator_main_screen.dart:3:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\screens\operator_dashboard\operator_main_screen.dart:8:9 - use_super_parameters
+  error - The name 'MyApp' isn't a class - test\widget_test.dart:16:35 - creation_with_non_type
+

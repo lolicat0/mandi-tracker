@@ -1,0 +1,19 @@
+{
+  "appTitle": "மண்டி விலை டிராக்கர்",
+  "settings": "அமைப்புகள்",
+  "theme": "தீம்",
+  "language": "மொழி",
+  "english": "ஆங்கிலம்",
+  "hindi": "இந்தி",
+  "tamil": "தமிழ்",
+  "signOut": "வெளியேறு",
+  "accountInformation": "கணக்கு தகவல்",
+  "farmerAccount": "சரிபார்க்கப்பட்ட விவசாயி",
+  "operatorAccount": "மண்டி ஆபரேட்டர்",
+  "phoneNumber": "தொலைபேசி எண்",
+  "villageLocation": "கிராமத்தின் இருப்பிடம்",
+  "primaryCrop": "முக்கிய பயிர்",
+  "mandiName": "மண்டியின் பெயர்",
+  "aiPredictions": "AI கணிப்புகள்",
+  "recentBroadcasts": "சமீபத்திய ஒளிபரப்புகள்"
+}

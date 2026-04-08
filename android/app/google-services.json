@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567556418286",
+    "project_id": "mandi-price-tracker-dea71",
+    "storage_bucket": "mandi-price-tracker-dea71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567556418286:android:2e2e3e5cd3b9b93723a1ff",
+        "android_client_info": {
+          "package_name": "com.example.mandi_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567556418286-at1c00ukjco5ktsinu6haohtas1g4rdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyKuzxQ04K5hn4cqoU14WLThtsWxAcDvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567556418286-at1c00ukjco5ktsinu6haohtas1g4rdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

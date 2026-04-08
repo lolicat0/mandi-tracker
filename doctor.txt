@@ -1,0 +1,44 @@
+[√] Flutter (Channel stable, 3.41.4, on Microsoft Windows [Version 10.0.26200.7840], locale en-IN) [388ms]
+    • Flutter version 3.41.4 on channel stable at C:\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision ff37bef603 (5 days ago), 2026-03-03 16:03:22 -0800
+    • Engine revision e4b8dca3f1
+    • Dart version 3.11.1
+    • DevTools version 2.54.1
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+
+[√] Windows Version (Windows 11 or higher, 25H2, 2009) [933ms]
+
+[!] Android toolchain - develop for Android devices (Android SDK version 36.1.0) [380ms]
+    • Android SDK at C:\Users\swath\AppData\Local\Android\sdk
+    • Emulator version 36.1.9.0 (build_id 13823996) (CL:N/A)
+    X cmdline-tools component is missing.
+      Try installing or updating Android Studio.
+      Alternatively, download the tools from https://developer.android.com/studio#command-line-tools-only and make sure to set the ANDROID_HOME environment variable.
+      See https://developer.android.com/studio/command-line for more details.
+    X Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/to/windows-android-setup for more details.
+
+[√] Chrome - develop for the web [204ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[!] Visual Studio - develop Windows apps (Visual Studio Build Tools 2019 16.11.48) [202ms]
+    • Visual Studio at C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
+    • Visual Studio Build Tools 2019 version 16.11.36128.20
+    X Visual Studio is missing necessary components. Please re-run the Visual Studio installer for the "Desktop development with C++" workload, and include these components:
+        MSVC v142 - VS 2019 C++ x64/x86 build tools
+         - If there are multiple build tool versions available, install the latest
+        C++ CMake tools for Windows
+        Windows 10 SDK
+
+[√] Connected device (4 available) [303ms]
+    • SM S721B (mobile) • RZCY81J8T0E • android-arm64  • Android 16 (API 36)
+    • Windows (desktop) • windows     • windows-x64    • Microsoft Windows [Version 10.0.26200.7840]
+    • Chrome (web)      • chrome      • web-javascript • Google Chrome 145.0.7632.160
+    • Edge (web)        • edge        • web-javascript • Microsoft Edge 145.0.3800.82
+
+[√] Network resources [1,511ms]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.
